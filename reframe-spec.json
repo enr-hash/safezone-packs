@@ -1,0 +1,10 @@
+{
+  "packId": "reframe-spec",
+  "packVersion": "2026.08.1",
+  "schemaVersion": 1,
+  "backdrop": {
+    "blur": 48,
+    "brightness": 55,
+    "overscan": 8
+  }
+}
